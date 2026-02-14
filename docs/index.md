@@ -51,3 +51,15 @@ Krátká, ale technicky náročná horská etapa s velkým převýšením a rych
 * **Doporučení:** vyjet brzy ráno, zkontrolovat počasí a nechat si časovou rezervu na bezpečný návrat.
 
 ![Pohled z hory Babadag](/images/babadag.jpg)
+
+## Etapa 5: Ruiny arménských klášterů a pevnost Jraberd (100 km)
+
+* [mapy.cz](https://mapy.com/s/desatunora)
+* [wikiloc](https://www.wikiloc.com/offroading-trails/mataghis-jraberd-yeritsmankants-monastery-24419108/photo-15605171)
+
+Etapa vede do oblasti s výrazným historickým dědictvím, ale zároveň s citlivou bezpečnostní situací. Trasu je potřeba plánovat konzervativně, jen po oficiálně přístupných cestách a s aktuálním ověřením podmínek.
+
+* **Dadivank (Kalbajar):** středověký klášterní komplex budovaný přibližně mezi 9.-13. stoletím.
+* **Yerits Mankants:** klášter z roku 1691, historicky spojený s oblastí Jraberd.
+* **Pevnost Jraberd (Çiləbürt qalası):** středověká horská pevnost nad údolím, významný obranný bod regionu.
+* **Bezpečnost:** část jihozápadního Ázerbájdžánu je stále vedena jako riziková kvůli minám a nevybuchlé munici; vstup do některých oblastí je bez povolení nelegální.
