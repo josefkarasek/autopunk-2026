@@ -1,6 +1,6 @@
 # Autopunk 2026
 
-Tento itinerář je plán off-road výpravy po Ázerbájdžánu se zaměřením na horské a prašné traily.
+Itinerář off-road výpravy po Ázerbájdžánu se zaměřením na horské a prašné traily.
 Každá etapa obsahuje orientační trasu, odkazy na mapu a krátké shrnutí náročnosti.
 Cílem je mít praktický podklad pro rychlé denní rozhodování podle počasí a stavu cest.
 
@@ -11,7 +11,7 @@ Cílem je mít praktický podklad pro rychlé denní rozhodování podle počas�
 * [mapy.cz](https://mapy.com/s/komozusoju)
 * [wikiloc](https://www.wikiloc.com/offroading-trails/benagady-altiagac-153560858)
 
-První středně náročná etapa začíná 80 km za Baku. Převážně po prašných cestách do vesnice Altiagac, poté po rozbité asfaltové cestě průsmykem do města Xizi. Nakonec sjezd k hlavním silnicím u pobřeží s vyhledem na Candy Cane Mountains.
+První středně náročná etapa začíná 80 km severně od Baku. Převážně po prašných cestách do vesnice Altiagac, poté po rozbité asfaltové cestě průsmykem do města Xizi. Nakonec sjezd k hlavním silnicím u pobřeží s vyhledem na Candy Cane Mountains.
 * Altiagac (Altıağac): klidná horská obec a vstup do narodniho parku Altiaghaj.
 * U pobřežní silnice (Siyazan): Beshbarmag je výrazné poutní místo s historií (krátká zajížďka mimo hlavní stopu)
 
@@ -43,7 +43,7 @@ Náročná etapa, ve které se přes horské vesnice dostaneme ze severní stran
 ## Etapa 4: Výjezd na horu Babadağ (33 km, 3 609 m. n. m.)
 
 * [mapy.cz](https://mapy.com/s/hotokotose)
-* [wikiloc](https://www.wikiloc.com/offroading-trails/babadag-from-lahic-via-off-road-120155442)
+* [wikiloc](https://www.wikiloc.com/offroading-trails/ximran-burovdal-babadag-224527008)
 
 Krátká, ale technicky náročná horská etapa s velkým převýšením a rychlou změnou podmínek. Trasa vede z okolí Lahice po kamenitých a rozbitých úsecích až do vysoké nadmořské výšky, kde často fouká silný vítr a může se rychle změnit viditelnost.
 
