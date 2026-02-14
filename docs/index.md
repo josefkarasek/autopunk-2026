@@ -63,3 +63,15 @@ Etapa vede do oblasti s výrazným historickým dědictvím, ale zároveň s cit
 * **Yerits Mankants:** klášter z roku 1691, historicky spojený s oblastí Jraberd.
 * **Pevnost Jraberd (Çiləbürt qalası):** středověká horská pevnost nad údolím, významný obranný bod regionu.
 * **Bezpečnost:** část jihozápadního Ázerbájdžánu je stále vedena jako riziková kvůli minám a nevybuchlé munici; vstup do některých oblastí je bez povolení nelegální.
+
+![Klášter Dadivank](/images/monastery.jpeg)
+
+## Etapa 6: Po pastevecké stezce (80 km)
+
+* [wikiloc](https://www.wikiloc.com/offroading-trails/xinaliq-v-koc-yolu-1-haciqabul-abseron-170702146/photo-106651186)
+
+Nenáročná etapa po prašných cestách sleduje část historické pastevecké trasy mezi regiony Hacıqabul a Abşeron.
+
+* **Zajímavost v okolí:** na trase a v jejím širším okolí se nacházejí starobylá historická pohřebiště spojená s kočovnickou tradicí regionu.
+
+![Stezka](/images/herder.jpg)
