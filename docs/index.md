@@ -11,9 +11,9 @@ Cílem je mít praktický podklad pro rychlé denní rozhodování podle počas�
 * [mapy.cz](https://mapy.com/s/komozusoju)
 * [wikiloc](https://www.wikiloc.com/offroading-trails/benagady-altiagac-153560858)
 
-První středně náročná etapa začíná 80 km severně od Baku. Převážně po prašných cestách do vesnice Altiagac, poté po rozbité asfaltové cestě průsmykem do města Xizi. Nakonec sjezd k hlavním silnicím u pobřeží s vyhledem na Candy Cane Mountains.
+První středně náročná etapa začíná 80 km severně od Baku. Převážně po prašných cestách do vesnice Altiagac, poté po rozbité asfaltové cestě průsmykem do města Chizi (Xizi). Nakonec sjezd k hlavním silnicím u pobřeží s vyhledem na Barevné Hory (Candy Cane Mountains).
 * Altiagac (Altıağac): klidná horská obec a vstup do narodniho parku Altiaghaj.
-* U pobřežní silnice (Siyazan): Beshbarmag je výrazné poutní místo s historií (krátká zajížďka mimo hlavní stopu)
+* U pobřežní silnice (Siyazan): Beš Barmak (Beş Barmaq) je výrazné poutní místo s historií (krátká zajížďka mimo hlavní stopu)
 
 ![Candy Mountains](/images/candy-mountains.jpeg)
 
@@ -22,7 +22,7 @@ První středně náročná etapa začíná 80 km severně od Baku. Převážně
 * [mapy.cz](https://mapy.com/s/cegacadado)
 * [wikiloc](https://www.wikiloc.com/offroading-trails/susay-qriz-149529644)
 
-Ve městě Quba (cca 600 m n. m.) je možnost doplnit zásoby, benzin a najíst se v restauraci. Poté následuje výjezd panoramatickou, velice rozbitou cestou do horské vesnice Xinaliq (cca 2 200 m n. m.), která se nachází v úpatí Velkého Kavkazu a v zimních měsících bývá izolovaná. Při dobrých podmínkách je možné pokračovat až k base campu pod horou Tufandag (4 191 m n. m.) ([wikiloc](https://www.wikiloc.com/offroading-trails/khinalig-tufandag-base-camp-112533369)).
+Ve městě Guba (Quba) (cca 600 m n. m.) je možnost doplnit zásoby, benzin a najíst se v restauraci. Poté následuje výjezd panoramatickou, velice rozbitou cestou do horské vesnice Xinaliq (cca 2 200 m n. m.), která se nachází v úpatí Velkého Kavkazu a v zimních měsících bývá izolovaná. Při dobrých podmínkách je možné pokračovat až k base campu pod horou Tufandag (4 191 m n. m.) ([wikiloc](https://www.wikiloc.com/offroading-trails/khinalig-tufandag-base-camp-112533369), [mapy.cz](https://mapy.com/s/ragobezada)).
 
 * **Quba (cca 600 m n. m.):** dobré zázemí před horskou etapou, navíc možnost krátké kulturní zastávky v Red Village (Qırmızı Qəsəbə).
 * **Xinaliq (cca 2 200 m n. m.):** historická vysokohorská vesnice s unikátní architekturou a výhledy; oblast je součástí kulturní krajiny UNESCO.
